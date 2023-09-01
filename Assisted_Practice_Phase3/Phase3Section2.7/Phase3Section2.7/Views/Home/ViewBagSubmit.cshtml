@@ -1,0 +1,25 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ViewBagSubmit</title>
+</head>
+<body>
+    <div class="row">
+        <div class="col-sm-6">
+            <h4>Results from ViewBag</h4>
+            @Html.Raw(ViewBag.name + "<br>" + ViewBag.address + "<br>" + ViewBag.sclass + "<br>" + ViewBag.year)
+
+        </div>
+    </div>
+</body>
+</html>
+
