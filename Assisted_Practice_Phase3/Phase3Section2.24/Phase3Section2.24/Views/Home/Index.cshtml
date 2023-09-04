@@ -1,8 +1,14 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
+<div class="container">
+    <br />
+    <div class="row">
+        <div class="col-sm-7">
+            <a href="/Home/StudentInfo1">Student Info Page Using Default Routing</a><br />
+            <a href="/Home/StudentInfo1?id=198&name=Walter">Student Info Page With Parameters Using Default Routing</a><br /><br />
+            <a href="/Student/190">Student Info Page Using Custom Routing</a><br />
+        </div>
+    </div>
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
