@@ -1,0 +1,65 @@
+﻿@model StudentModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/unobtrusive/jquery.unobtrusive-ajax.min.js"></script>
+<div class="container">
+    <br />
+    <h4>Edit Student using Ajax</h4>
+    <div class="row">
+        <form method="post" class="col-sm-6" data-ajax="true" data-ajax-method="post" data-ajax-complete="completed">
+            <div class="row">
+                <div class="col-sm-4">
+                    Name
+                </div>
+                <div class="col-sm-8">
+                    @Html.TextBoxFor(m => m.Name)
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-4">
+                    Address
+                </div>
+                <div class="col-sm-8">
+                    @Html.TextBoxFor(m => m.Address)
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-4">
+                    Class
+                </div>
+                <div class="col-sm-8">
+                    @Html.TextBoxFor(m => m.Class)
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-4">
+                    Email id
+                </div>
+                <div class="col-sm-8">
+                    @Html.TextBoxFor(m => m.Email)
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-12 text-right">
+                    <button class="btn btn-default">Submit</button>
+                </div>
+            </div>
+        </form>
+    </div>
+
+</div>
+
+
+@section scripts{
+    <script>
+        completed = function(xhr)  {
+            alert(xhr.responseText);
+        };
+    </script>
+}
+
