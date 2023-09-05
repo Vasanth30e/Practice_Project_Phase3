@@ -1,0 +1,7 @@
+D:\Training\Assisted and Practice Project_Phase 3\Assisted_Practice_Phase3\Phase3Section5.5\Phase3Section5.5\bin\Debug\Phase3Section5.5.dll.config
+D:\Training\Assisted and Practice Project_Phase 3\Assisted_Practice_Phase3\Phase3Section5.5\Phase3Section5.5\bin\Debug\Phase3Section5.5.dll
+D:\Training\Assisted and Practice Project_Phase 3\Assisted_Practice_Phase3\Phase3Section5.5\Phase3Section5.5\bin\Debug\Phase3Section5.5.pdb
+D:\Training\Assisted and Practice Project_Phase 3\Assisted_Practice_Phase3\Phase3Section5.5\Phase3Section5.5\obj\Debug\Phase3Section5.5.csproj.AssemblyReference.cache
+D:\Training\Assisted and Practice Project_Phase 3\Assisted_Practice_Phase3\Phase3Section5.5\Phase3Section5.5\obj\Debug\Phase3Section5.5.csproj.CoreCompileInputs.cache
+D:\Training\Assisted and Practice Project_Phase 3\Assisted_Practice_Phase3\Phase3Section5.5\Phase3Section5.5\obj\Debug\Phase3Section5.5.dll
+D:\Training\Assisted and Practice Project_Phase 3\Assisted_Practice_Phase3\Phase3Section5.5\Phase3Section5.5\obj\Debug\Phase3Section5.5.pdb

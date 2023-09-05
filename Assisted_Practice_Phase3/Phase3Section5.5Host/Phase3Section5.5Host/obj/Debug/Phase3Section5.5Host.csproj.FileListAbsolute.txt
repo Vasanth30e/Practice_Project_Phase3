@@ -1,0 +1,12 @@
+D:\Training\Assisted and Practice Project_Phase 3\Assisted_Practice_Phase3\Phase3Section5.5Host\Phase3Section5.5Host\bin\Debug\Phase3Section5.5Host.exe.config
+D:\Training\Assisted and Practice Project_Phase 3\Assisted_Practice_Phase3\Phase3Section5.5Host\Phase3Section5.5Host\bin\Debug\Phase3Section5.5Host.exe
+D:\Training\Assisted and Practice Project_Phase 3\Assisted_Practice_Phase3\Phase3Section5.5Host\Phase3Section5.5Host\bin\Debug\Phase3Section5.5Host.pdb
+D:\Training\Assisted and Practice Project_Phase 3\Assisted_Practice_Phase3\Phase3Section5.5Host\Phase3Section5.5Host\bin\Debug\Phase3Section5.5.dll
+D:\Training\Assisted and Practice Project_Phase 3\Assisted_Practice_Phase3\Phase3Section5.5Host\Phase3Section5.5Host\bin\Debug\Phase3Section5.5.pdb
+D:\Training\Assisted and Practice Project_Phase 3\Assisted_Practice_Phase3\Phase3Section5.5Host\Phase3Section5.5Host\bin\Debug\Phase3Section5.5.dll.config
+D:\Training\Assisted and Practice Project_Phase 3\Assisted_Practice_Phase3\Phase3Section5.5Host\Phase3Section5.5Host\obj\Debug\Phase3Section5.5Host.csproj.AssemblyReference.cache
+D:\Training\Assisted and Practice Project_Phase 3\Assisted_Practice_Phase3\Phase3Section5.5Host\Phase3Section5.5Host\obj\Debug\Phase3Section5.5Host.csproj.SuggestedBindingRedirects.cache
+D:\Training\Assisted and Practice Project_Phase 3\Assisted_Practice_Phase3\Phase3Section5.5Host\Phase3Section5.5Host\obj\Debug\Phase3Section5.5Host.csproj.CoreCompileInputs.cache
+D:\Training\Assisted and Practice Project_Phase 3\Assisted_Practice_Phase3\Phase3Section5.5Host\Phase3Section5.5Host\obj\Debug\Phase3Section5.5Host.csproj.CopyComplete
+D:\Training\Assisted and Practice Project_Phase 3\Assisted_Practice_Phase3\Phase3Section5.5Host\Phase3Section5.5Host\obj\Debug\Phase3Section5.5Host.exe
+D:\Training\Assisted and Practice Project_Phase 3\Assisted_Practice_Phase3\Phase3Section5.5Host\Phase3Section5.5Host\obj\Debug\Phase3Section5.5Host.pdb
